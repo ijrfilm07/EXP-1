@@ -45,35 +45,41 @@ CIRCUIT DIAGRAM:
 
 a.   KVL:
  
-<img width="1067" height="1600" alt="image" src="https://github.com/user-attachments/assets/459a80f3-fcc8-43ee-bba5-55abd4beaad5" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 50 PM" src="https://github.com/user-attachments/assets/2a6297ad-1230-492a-b8c8-2a78112adb02" />
+
+
 
 
 b.  KCL:
- <img width="1394" height="1599" alt="image" src="https://github.com/user-attachments/assets/fee6f59c-be74-4d8b-8349-75efe6d8f96b" />
+ <img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 51 PM" src="https://github.com/user-attachments/assets/912a24f7-e726-4dd8-b362-422d36d0f321" />
+
 
 
 Calculation:
 
 a.   KVL:
  
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/c31a4873-1b20-4225-afec-60e4ff08cec3" />
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 51 PM (2)" src="https://github.com/user-attachments/assets/c9deffe4-3f4d-47b1-aa07-b6937104c707" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 52 PM (1)" src="https://github.com/user-attachments/assets/2092948d-5acf-4bb0-ac44-1b6978c7fdeb" />
 
 
 b.  KCL:
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 52 PM (2)" src="https://github.com/user-attachments/assets/c23544be-e1c6-42d1-9b76-603022d91a45" />
 
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/445c8529-019c-4c3b-bbb7-9390babcd17e" />
-<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/727d3ee8-5bd7-40fe-a2a3-4cbd4f7372d9" />
 
 
 
 Tabulation:
 
 a.   KVL:
- <img width="785" height="1600" alt="image" src="https://github.com/user-attachments/assets/2a446507-25a9-4618-82dd-f3a103909748" />
+
+<img width="1200" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 51 PM (1)" src="https://github.com/user-attachments/assets/b9e1148e-28f1-40e9-b8d5-9a26d3e4909b" />
 
 
 
 b.  KCL:
+<img width="890" height="1600" alt="WhatsApp Image 2026-05-25 at 8 02 52 PM" src="https://github.com/user-attachments/assets/7c416284-f8d9-415d-be31-138658e67993" />
 
 <img width="792" height="1600" alt="image" src="https://github.com/user-attachments/assets/39527c51-fa37-4140-862c-95738dc92465" />
 
